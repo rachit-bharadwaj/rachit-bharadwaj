@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/rrachitt"><img src="https://github.com/rachit-bharadwaj/rachit-bharadwaj/blob/main/devcard.svg" width="400" alt="Rachit's Dev Card"/></a>
 [![@rachitbharadwaj's Holopin board](https://holopin.me/rachitbharadwaj)](https://holopin.io/@rachitbharadwaj)
-
