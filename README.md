@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/rrachitt"><img src="https://github.com/rachit-bharadwaj/rachit-bharadwaj/blob/main/devcard.svg" width="400" alt="Rachit's Dev Card"/></a>
 [![@rachitbharadwaj's Holopin board](https://holopin.me/rachitbharadwaj)](https://holopin.io/@rachitbharadwaj)
 
-[![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachit-bharadwaj&show_icons=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit-bharadwaj&show_icons=true&theme=radical)]
+![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachit-bharadwaj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit-bharadwaj&show_icons=true&theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-bharadwaj&show_icons=true&theme=radical" alt="streak stats" />
