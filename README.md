@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <a href="https://app.daily.dev/rrachitt"><img src="https://api.daily.dev/devcards/80ff0c05aca44eb4992f08598a285d97.png?r=0xm" width="400" alt="Rachit Bharadwaj's Dev Card"/></a> -->
+<a href="https://app.daily.dev/rrachitt"><img src="https://api.daily.dev/devcards/80ff0c05aca44eb4992f08598a285d97.png?r=0xm" width="400" alt="Rachit Bharadwaj's Dev Card"/></a>
 
 <a href="https://app.daily.dev/rrachitt"><img src="https://github.com/rachit-bharadwaj/rachit-bharadwaj/blob/main/devcard.svg" width="400" alt="Rachit's Dev Card"/></a>
 [![@rachitbharadwaj's Holopin board](https://holopin.me/rachitbharadwaj)](https://holopin.io/@rachitbharadwaj)
