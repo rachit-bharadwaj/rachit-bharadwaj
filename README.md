@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://app.daily.dev/rrachitt"><img src="https://api.daily.dev/devcards/80ff0c05aca44eb4992f08598a285d97.png?r=0xm" width="400" alt="Rachit Bharadwaj's Dev Card"/> </a> -->
 
-<a href="https://app.daily.dev/rrachitt"><img src="https://github.com/rachit-bharadwaj/rachit-bharadwaj/blob/main/devcard.svg" width="400" alt="Rachit's Dev Card"/></a>
-[![@rachitbharadwaj's Holopin board](https://holopin.me/rachitbharadwaj)](https://holopin.io/@rachitbharadwaj)
+<!-- <a href="https://app.daily.dev/rrachitt"><img src="https://github.com/rachit-bharadwaj/rachit-bharadwaj/blob/main/devcard.svg" width="400" alt="Rachit's Dev Card"/></a>
+[![@rachitbharadwaj's Holopin board](https://holopin.me/rachitbharadwaj)](https://holopin.io/@rachitbharadwaj) -->
+<a href="https://app.daily.dev/rrachitt"><img src="https://api.daily.dev/devcards/v2/hIRf78jRJIGTCGOIuGKaS.png?r=w9n" width="356" alt="Rachit Bharadwaj's Dev Card"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rachit-bharadwaj&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-bharadwaj&show_icons=true&theme=radical" alt="streak stats" />
