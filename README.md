@@ -15,16 +15,7 @@ A passionate Full-Stack Developer with expertise in creating dynamic and scalabl
 [![Top Repos/Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachit-bharadwaj&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rachit-bharadwaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rachit-bharadwaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit-bharadwaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rachit-bharadwaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rachit-bharadwaj&icon=0&color=0)](https://visitcount.itsvg.in)
